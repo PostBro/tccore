@@ -30,7 +30,7 @@ Alle Versionen unter [Releases](https://github.com/PostBro/tccore/releases).
 
 ## Installieren
 
-**Mac:** dmg öffnen, TCCORE in den Ordner Programme ziehen. Beim ersten Start meldet macOS einen nicht verifizierten Entwickler: Rechtsklick auf TCCORE, „Öffnen“, noch einmal „Öffnen“. Danach startet die App normal.
+**Mac:** dmg öffnen, TCCORE in den Ordner Programme ziehen und einmal starten. macOS blockiert den ersten Start, weil die App nicht notarisiert ist. Die Meldung schließen (nicht in den Papierkorb legen), dann Systemeinstellungen, Datenschutz & Sicherheit, ganz nach unten scrollen, „Dennoch öffnen“ klicken und mit Passwort oder Touch ID bestätigen. Danach startet die App normal.
 
 **Windows:** Setup ausführen oder die Portable-Datei direkt starten. Zeigt Windows „Der Computer wurde durch Windows geschützt“: „Weitere Informationen“, dann „Trotzdem ausführen“.
 
