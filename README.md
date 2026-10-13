@@ -6,14 +6,14 @@
 
 ## Download
 
-Aktuelle Version: **V01-10**
+Aktuelle Version: **V01-11**
 
 | System | Datei |
 |---|---|
-| Mac mit Apple-Chip (M1 und neuer) | [TCCORE_V01-10_mac-arm64.dmg](https://github.com/PostBro/tccore/releases/latest/download/TCCORE_V01-10_mac-arm64.dmg) |
-| Mac mit Intel-Prozessor | [TCCORE_V01-10_mac-x64.dmg](https://github.com/PostBro/tccore/releases/latest/download/TCCORE_V01-10_mac-x64.dmg) |
-| Windows 10 und 11, installieren | [TCCORE_Setup_V01-10_Windows.exe](https://github.com/PostBro/tccore/releases/latest/download/TCCORE_Setup_V01-10_Windows.exe) |
-| Windows 10 und 11, ohne Installation | [TCCORE_Portable_V01-10_Windows.exe](https://github.com/PostBro/tccore/releases/latest/download/TCCORE_Portable_V01-10_Windows.exe) |
+| Mac mit Apple-Chip (M1 und neuer) | [TCCORE_V01-11_mac-arm64.dmg](https://github.com/PostBro/tccore/releases/latest/download/TCCORE_V01-11_mac-arm64.dmg) |
+| Mac mit Intel-Prozessor | [TCCORE_V01-11_mac-x64.dmg](https://github.com/PostBro/tccore/releases/latest/download/TCCORE_V01-11_mac-x64.dmg) |
+| Windows 10 und 11, installieren | [TCCORE_Setup_V01-11_Windows.exe](https://github.com/PostBro/tccore/releases/latest/download/TCCORE_Setup_V01-11_Windows.exe) |
+| Windows 10 und 11, ohne Installation | [TCCORE_Portable_V01-11_Windows.exe](https://github.com/PostBro/tccore/releases/latest/download/TCCORE_Portable_V01-11_Windows.exe) |
 
 Alle Versionen unter [Releases](https://github.com/PostBro/tccore/releases).
 
